@@ -1,0 +1,9 @@
+{
+  "name": "dari",
+  "version": "0.0.1",
+  "description": "dari demo",
+  "main": "index.js",
+  "repository": "git@github.com:darijs/dari.git",
+  "author": "Wang Chi <hiwangchi@gmail.com>",
+  "license": "MIT"
+}
