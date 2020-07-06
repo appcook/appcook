@@ -1,9 +1,9 @@
 {
-  "name": "dari",
+  "name": "verlime",
   "version": "0.0.1",
-  "description": "dari demo",
+  "description": "verlime",
   "main": "index.js",
-  "repository": "git@github.com:darijs/dari.git",
+  "repository": "git@github.com:verlime/verlime.git",
   "author": "Wang Chi <hiwangchi@gmail.com>",
   "license": "MIT"
 }
