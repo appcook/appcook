@@ -1,9 +1,9 @@
 {
-  "name": "verlime",
+  "name": "appcook",
   "version": "0.0.1",
-  "description": "verlime",
+  "description": "App Cook",
   "main": "index.js",
-  "repository": "git@github.com:verlime/verlime.git",
+  "repository": "git@github.com:appcook/appcook.git",
   "author": "Wang Chi <hiwangchi@gmail.com>",
   "license": "MIT"
 }

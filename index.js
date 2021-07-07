@@ -1,4 +1,4 @@
 module.exports = function () {
-  console.log('Verlime');
-  return 'Verlime';
+  console.log('App Cook is coming soon...');
+  return 'App Cook';
 };
